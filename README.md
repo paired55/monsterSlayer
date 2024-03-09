@@ -1,2 +1,3 @@
 # monsterSlayer
-Small game to practice Vuejs framwork
+
+Small game to practice Vuejs framework
